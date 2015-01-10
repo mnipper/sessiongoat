@@ -1,8 +1,6 @@
 Demonstrates impersonating a user with Rails 4.1 and devise when you have the secret_key_base and the hashed password of a user.
 
 To run:
-```
-rails runner lib/impersonate.rb
-```
+    rails runner lib/impersonate.rb
 
-`rake db:setup` is provided for creating a few users for your convenience.
+rake db:setup is provided for creating a few users for your convenience.
