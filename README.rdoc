@@ -3,4 +3,4 @@ Demonstrates impersonating a user with Rails 4.1 and devise when you have the se
 To run:
     rails runner lib/impersonate.rb
 
-rake db:setup is provided for creating a few users for your convenience.
+Run rake db:setup before running the app.  It creates a few users for your convenience.
